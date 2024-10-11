@@ -108,7 +108,3 @@ img {
         gap: 10px;
     }
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
